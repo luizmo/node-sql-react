@@ -1,7 +1,7 @@
 # node-sql-react
 
-Back: Node + Express + Sequelize 
-Front: ReactJS
+* Back: Node + Express + Sequelize 
+* Front: ReactJS
 
 ### Executando o projeto
 Abaixo instruções para execução do projeto:
